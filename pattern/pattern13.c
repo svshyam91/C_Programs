@@ -1,7 +1,7 @@
 /*
 	Problem: Given n, print the pattern as shown below:-
 
-	Ex: n = 5 ( Height of the pattern )
+	Ex: n = 7 ( Height of the pattern )
 
 	1111111
 	1111122
